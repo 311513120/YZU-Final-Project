@@ -16,9 +16,7 @@ Download pakages from requirements.txt
 
 Run main.sh
 
-    ```bash
     ./main.sh
-    ```
     
 ---
 ## Datasets
@@ -31,5 +29,6 @@ Run main.sh
  - [Aishell](http://www.openslr.org/resources/33) : 400 people from different accent areas in China are invited to participate in the recording
 
 ## UIS-RNN structure
-
+![image1](https://github.com/311513120/YZU-Final-Project/blob/main/Speaker-Diarization/resources/uisrnn.gif)
 ## Result Visualization
+![image2](https://github.com/311513120/YZU-Final-Project/blob/main/Speaker-Diarization/resources/diarization.gif)
