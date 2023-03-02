@@ -1,0 +1,18 @@
+# http://people.csail.mit.edu/hubert/pyaudio/packages/pyaudio-0.2.8.tar.gz
+librosa~=0.9.1
+Keras==2.2.5
+torch~=1.11.0
+# PyAudio
+numpy~=1.21.6
+scipy~=1.7.3
+simpleder~=0.0.3
+setuptools~=61.2.0
+tqdm~=4.64.0
+tensorflow~=1.15.0
+tensorflow-gpu~=1.15.0
+pyaudio~=0.2.11
+matplotlib~=3.5.2
+pandas
+pyloudnorm
+protobuf==3.20.*
+h5py==2.10.0

@@ -1,0 +1,50 @@
+2021-05-23 15:32:43 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  1: train = -9.7703(113.72m/20250) | dev = -11.4836(0.59m/202) 
+2021-05-23 17:27:23 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  2: train = -11.3393(114.05m/20250) | dev = -12.0490(0.61m/202) 
+2021-05-23 19:22:07 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  3: train = -11.8347(114.14m/20250) | dev = -12.0933(0.58m/202) 
+2021-05-23 21:16:45 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  4: train = -11.9085(114.04m/20250) | dev = -12.3070(0.59m/202) 
+2021-05-23 23:11:30 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  5: train = -12.0613(114.16m/20250) | dev = -11.9268(0.59m/202) | no impr, best = -12.3070
+2021-05-24 01:06:02 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  6: train = -12.2119(113.96m/20250) | dev = -12.5515(0.59m/202) 
+2021-05-24 03:00:30 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  7: train = -12.3253(113.86m/20250) | dev = -12.4819(0.60m/202) | no impr, best = -12.5515
+2021-05-24 04:55:11 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  8: train = -12.4042(114.08m/20250) | dev = -12.5900(0.60m/202) 
+2021-05-24 06:49:38 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch  9: train = -12.4636(113.85m/20250) | dev = -12.6260(0.59m/202) 
+2021-05-24 08:44:05 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 10: train = -12.4989(113.86m/20250) | dev = -12.5688(0.59m/202) | no impr, best = -12.6260
+2021-05-24 10:38:38 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 11: train = -12.5547(113.96m/20250) | dev = -12.6314(0.59m/202) 
+2021-05-24 12:33:16 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 12: train = -12.5706(114.05m/20250) | dev = -12.6267(0.59m/202) | no impr, best = -12.6314
+2021-05-24 14:27:50 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 13: train = -12.6165(113.98m/20250) | dev = -12.7823(0.59m/202) 
+2021-05-24 16:22:26 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 14: train = -12.6369(114.02m/20250) | dev = -12.8312(0.59m/202) 
+2021-05-24 18:17:06 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 15: train = -12.6703(114.08m/20250) | dev = -12.8545(0.59m/202) 
+2021-05-24 20:12:05 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 16: train = -12.6871(114.38m/20250) | dev = -12.8530(0.60m/202) | no impr, best = -12.8545
+2021-05-24 22:07:40 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 17: train = -12.6841(114.99m/20250) | dev = -12.7776(0.61m/202) | no impr, best = -12.8545
+2021-05-25 00:02:21 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 18: train = -12.7261(114.09m/20250) | dev = -12.9219(0.59m/202) 
+2021-05-25 01:56:59 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 19: train = -12.7436(114.03m/20250) | dev = -12.9276(0.59m/202) 
+2021-05-25 03:51:37 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 20: train = -12.7425(114.03m/20250) | dev = -12.9619(0.59m/202) 
+2021-05-25 05:46:13 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 21: train = -12.7584(114.01m/20250) | dev = -12.9406(0.59m/202) | no impr, best = -12.9619
+2021-05-25 07:40:50 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 22: train = -12.7839(114.04m/20250) | dev = -12.9839(0.59m/202) 
+2021-05-25 09:35:35 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 23: train = -12.7922(114.15m/20250) | dev = -12.9519(0.59m/202) | no impr, best = -12.9839
+2021-05-25 11:30:11 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 24: train = -12.8039(114.00m/20250) | dev = -12.9211(0.60m/202) | no impr, best = -12.9839
+2021-05-25 13:24:49 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.000e-03) - Epoch 25: train = -12.8070(114.04m/20250) | dev = -12.9455(0.60m/202) | no impr, best = -12.9839
+2021-05-25 15:19:56 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 26: train = -13.0467(114.50m/20250) | dev = -13.1697(0.61m/202) 
+2021-05-25 17:14:42 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 27: train = -13.0944(114.17m/20250) | dev = -13.2146(0.59m/202) 
+2021-05-25 19:09:17 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 28: train = -13.1045(114.01m/20250) | dev = -13.1768(0.59m/202) | no impr, best = -13.2146
+2021-05-25 21:03:52 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 29: train = -13.1073(113.98m/20250) | dev = -13.2240(0.59m/202) 
+2021-05-25 22:58:29 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 30: train = -13.1137(114.02m/20250) | dev = -13.1879(0.60m/202) | no impr, best = -13.2240
+2021-05-26 00:53:08 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 31: train = -13.1227(114.06m/20250) | dev = -13.2072(0.59m/202) | no impr, best = -13.2240
+2021-05-26 02:47:43 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 32: train = -13.1252(113.96m/20250) | dev = -13.2710(0.61m/202) 
+2021-05-26 04:42:32 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 33: train = -13.1179(114.22m/20250) | dev = -13.2297(0.59m/202) | no impr, best = -13.2710
+2021-05-26 06:37:13 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 34: train = -13.1341(114.09m/20250) | dev = -13.2238(0.60m/202) | no impr, best = -13.2710
+2021-05-26 08:32:00 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=5.000e-04) - Epoch 35: train = -13.0501(114.17m/20250) | dev = -13.2484(0.60m/202) | no impr, best = -13.2710
+2021-05-26 10:26:40 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 36: train = -13.2983(114.07m/20250) | dev = -13.4197(0.60m/202) 
+2021-05-26 12:21:51 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 37: train = -13.3179(114.60m/20250) | dev = -13.4117(0.60m/202) | no impr, best = -13.4197
+2021-05-26 14:17:02 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 38: train = -13.3288(114.59m/20250) | dev = -13.3914(0.59m/202) | no impr, best = -13.4197
+2021-05-26 16:12:14 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 39: train = -13.3364(114.60m/20250) | dev = -13.4485(0.60m/202) 
+2021-05-26 18:07:28 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 40: train = -13.3401(114.62m/20250) | dev = -13.4006(0.60m/202) | no impr, best = -13.4485
+2021-05-26 20:02:50 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 41: train = -13.3439(114.76m/20250) | dev = -13.4182(0.60m/202) | no impr, best = -13.4485
+2021-05-26 21:58:10 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 42: train = -13.3467(114.74m/20250) | dev = -13.4131(0.59m/202) | no impr, best = -13.4485
+2021-05-26 23:54:00 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.250e-04) - Epoch 43: train = -13.4514(115.25m/20250) | dev = -13.5177(0.59m/202) 
+2021-05-27 01:49:22 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.250e-04) - Epoch 44: train = -13.4641(114.76m/20250) | dev = -13.5108(0.60m/202) | no impr, best = -13.5177
+2021-05-27 03:44:38 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.250e-04) - Epoch 45: train = -13.4686(114.66m/20250) | dev = -13.5033(0.60m/202) | no impr, best = -13.5177
+2021-05-27 05:39:58 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=1.250e-04) - Epoch 46: train = -13.4730(114.75m/20250) | dev = -13.4943(0.59m/202) | no impr, best = -13.5177
+2021-05-27 07:35:35 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=6.250e-05) - Epoch 47: train = -13.5349(115.02m/20250) | dev = -13.5465(0.59m/202) 
+2021-05-27 09:31:03 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=6.250e-05) - Epoch 48: train = -13.5432(114.86m/20250) | dev = -13.5738(0.60m/202) 
+2021-05-27 11:26:16 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=6.250e-05) - Epoch 49: train = -13.5473(114.61m/20250) | dev = -13.5293(0.59m/202) | no impr, best = -13.5738
+2021-05-27 13:21:32 [/workdir/denoiser/main/nnet/libs/trainer.py:252 - INFO ] Loss(time/N, lr=6.250e-05) - Epoch 50: train = -13.5503(114.67m/20250) | dev = -13.5664(0.60m/202) | no impr, best = -13.5738

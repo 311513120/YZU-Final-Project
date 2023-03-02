@@ -1,0 +1,19 @@
+{
+    "train": {
+        "mix_scp": "/workdir/denoiser/datasets/ner-300hr/tr/mix.scp",
+        "ref_scp": [
+            "/workdir/denoiser/datasets/ner-300hr/tr/spk1.scp",
+            "/workdir/denoiser/datasets/ner-300hr/tr/spk2.scp"
+        ],
+        "sample_rate": 16000
+    },
+    "dev": {
+        "mix_scp": "/workdir/denoiser/datasets/ner-300hr/cv/mix.scp",
+        "ref_scp": [
+            "/workdir/denoiser/datasets/ner-300hr/cv/spk1.scp",
+            "/workdir/denoiser/datasets/ner-300hr/cv/spk2.scp"
+        ],
+        "sample_rate": 16000
+    },
+    "chunk_size": 80000
+}
